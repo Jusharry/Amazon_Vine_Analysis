@@ -35,4 +35,4 @@ The percentage of 5 star Vine and non-Vine reviews are as follows:
 The results of this analysis clearly indicate that there is not a bias towards Vine reviews or 5 star Vine reviews as it is clearly visible that there were more non-Vine reviews tabulated for boh categories . This is also true for the resultant percentages where a larger percentage of 5 star reviews came from non Vine program participants(43.62%) vs Vine reviews at (36.08%).
  A futher analysis that could be useful is to use the NaiveBayes model to attempt to predict the likelihood of review being written by a Vine vs non Vine user . 
 
- See prediction here: [textlink]()
+ See prediction[here](Further_challenge__analysis.ipynb)
